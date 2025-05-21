@@ -24,3 +24,6 @@ This Power BI dashboard provides actionable insights into hospitality unit perfo
 - 💻 Download [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
 - 📥 Clone this repository or download the `.pbix` file.
 - 🚀 Open the `.pbix` file in Power BI Desktop.
+
+## 🎥 Project Demo
+[▶️ Watch the Demo](https://github.com/user-attachments/assets/0e29599d-2361-4892-b980-655cc856394d)
